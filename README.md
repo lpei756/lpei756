@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hello! 👋 I'm [lpei756](https://github.com/lpei756)
 
-<!--
-**lpei756/lpei756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Dive in to know more about me.
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education**: Currently pursuing my Master's degree in Information Technology at the University of Auckland.
+- 🌟 **Role**: Proud to serve as a Math mentor at [WinCS](#) - a non-profit women's learning organization under the Computer Science Department at the University of Auckland.
+- 📆 **Internship**: Excited to embark on my professional journey with my upcoming internship in July 2024.
+- 📘 **Learning**: I'm actively honing my skills in:
+  - React
+  - MongoDB
+  - Swift
+  - .NET
+  - Python
+- 🔧 **Skills**: I have solid experience with:
+  - Java
+  - JavaScript
+  - HTML
+  - CSS
+  - Figma
+  - SQLite
+  - Node.js
+- 🗣️ **Pronouns**: She/Her
+- 😄 **Fun Fact**: I love cooking and watching videos in my free time.
+- 💬 **Ask Me About**: Any of the technologies I'm familiar with. I'm always eager to chat and discuss new ideas!
+- 📫 **How to Reach Me**: You can drop me a message [here](https://github.com/lpei756) or connect with me on my social platforms.
+
+## 📊 GitHub Stats
+
+![lpei756's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpei756&show_icons=true&count_private=true&theme=default)
+
+## 🔭 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpei756&layout=compact)](https://github.com/lpei756/github-readme-stats)
+
+## 🌐 Let's Connect!
+
+- LinkedIn: [https://www.linkedin.com/in/leiatauckland/]
+
+
+---
+
+⭐️ Thanks for visiting! ⭐️
+
+⭐️ From [lpei756](https://github.com/lpei756)
