@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [lpei756](https://github.com/lpei756)
+# Hello! 👋 I'm [Lei](https://github.com/lpei756)
 
 Welcome to my GitHub profile! Dive in to know more about me.
 
@@ -21,6 +21,9 @@ Welcome to my GitHub profile! Dive in to know more about me.
   - Figma
   - SQLite
   - Node.js
+  - AWS
+  - Azure
+
 - 🗣️ **Pronouns**: She/Her
 - 😄 **Fun Fact**: I love cooking and watching videos in my free time.
 - 💬 **Ask Me About**: Any of the technologies I'm familiar with. I'm always eager to chat and discuss new ideas!
