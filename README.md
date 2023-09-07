@@ -14,16 +14,16 @@ Welcome to my GitHub profile! Dive in to know more about me.
   - .NET
   - Python
 - 🔧 **Skills**: I have solid experience with:
-  - Java
-  - JavaScript
-  - HTML
-  - CSS
-  - Go
-  - Figma
-  - SQLite
-  - Node.js
-  - AWS
-  - Azure
+  - Java(skilled)
+  - JavaScript(skilled)
+  - HTML(skilled)
+  - CSS(skilled)
+  - Figma(skilled)
+  - Go(learned)
+  - SQLite(learned)
+  - Node.js(learned)
+  - AWS(learned and tried)
+  - Azure(learned)
 
 - 🗣️ **Pronouns**: She/Her
 - 😄 **Fun Fact**: I love cooking and watching videos in my free time.
