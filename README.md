@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Dive in to know more about me.
   - JavaScript
   - HTML
   - CSS
-  - go
+  - Go
   - Figma
   - SQLite
   - Node.js
