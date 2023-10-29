@@ -12,9 +12,10 @@ Welcome to my GitHub profile! Dive in to know more about me.
   - MongoDB
   - Swift
   - .NET
-  - Python
+  
 - 🔧 **Skills**: I have solid experience with:
   - Java(skilled)
+  - Python(skilled)
   - JavaScript(skilled)
   - HTML(skilled)
   - CSS(skilled)
