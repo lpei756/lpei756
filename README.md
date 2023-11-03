@@ -17,13 +17,13 @@ Welcome to my GitHub profile! Dive in to know more about me.
   - Java(skilled)
   - Python(skilled)
   - JavaScript(skilled)
+  - Node.js(skilled)
   - HTML(skilled)
   - CSS(skilled)
   - Figma(skilled)
   - Go(learned)
   - SQLite(learned)
-  - Node.js(learned)
-  - AWS(learned and tried)
+  - AWS(learned)
   - Azure(learned)
 
 - 🗣️ **Pronouns**: She/Her
