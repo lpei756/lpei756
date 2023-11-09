@@ -8,7 +8,6 @@ Welcome to my GitHub profile! Dive in to know more about me.
 - 🌟 **Role**: Proud to serve as a Math mentor at [WinCS](#) - a non-profit women's learning organization under the Computer Science Department at the University of Auckland.
 - 📆 **Internship**: Excited to embark on my professional journey with my upcoming internship in July 2024.
 - 📘 **Learning**: I'm actively honing my skills in:
-  - React
   - MongoDB
   - Swift
   - .NET
@@ -21,6 +20,8 @@ Welcome to my GitHub profile! Dive in to know more about me.
   - HTML(skilled)
   - CSS(skilled)
   - Figma(skilled)
+  - TypeScript（learned)
+  - React（learned)
   - Go(learned)
   - SQLite(learned)
   - AWS(learned)
