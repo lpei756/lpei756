@@ -4,9 +4,7 @@ Welcome to my GitHub profile! Dive in to know more about me.
 
 ## 🌱 About Me
 
-- 🎓 **Education**: Currently pursuing my Master's degree in Information Technology at the University of Auckland.
-- 🌟 **Role**: Proud to serve as a Math mentor at [WinCS](#) - a non-profit women's learning organization under the Computer Science Department at the University of Auckland.
-- 📆 **Internship**: Excited to embark on my professional journey with my upcoming internship in July 2024.
+- 🎓 **Education**: Currently pursuing my PhD's degree in CS at the University of Otago.
 - 📘 **Learning**: I'm actively honing my skills in:
   - MongoDB
   - Swift
@@ -28,7 +26,7 @@ Welcome to my GitHub profile! Dive in to know more about me.
   - Azure(learned)
 
 - 🗣️ **Pronouns**: She/Her
-- 😄 **Fun Fact**: I love cooking and watching videos in my free time.
+- 😄 **Fun Fact**: I love cooking and music in my free time.
 - 💬 **Ask Me About**: Any of the technologies I'm familiar with. I'm always eager to chat and discuss new ideas!
 - 📫 **How to Reach Me**: You can drop me a message [here](https://github.com/lpei756) or connect with me on my social platforms.
 
